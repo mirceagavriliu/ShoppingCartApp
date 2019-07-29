@@ -1,0 +1,14 @@
+C:\Users\mircea.gavriliu\source\repos\ShoppingCart\ShoppingCart\bin\Debug\netcoreapp2.2\ShoppingCart.deps.json
+C:\Users\mircea.gavriliu\source\repos\ShoppingCart\ShoppingCart\bin\Debug\netcoreapp2.2\ShoppingCart.runtimeconfig.json
+C:\Users\mircea.gavriliu\source\repos\ShoppingCart\ShoppingCart\bin\Debug\netcoreapp2.2\ShoppingCart.runtimeconfig.dev.json
+C:\Users\mircea.gavriliu\source\repos\ShoppingCart\ShoppingCart\bin\Debug\netcoreapp2.2\ShoppingCart.dll
+C:\Users\mircea.gavriliu\source\repos\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp2.2\ShoppingCart.csprojAssemblyReference.cache
+C:\Users\mircea.gavriliu\source\repos\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp2.2\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\mircea.gavriliu\source\repos\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp2.2\ShoppingCart.RazorAssemblyInfo.cache
+C:\Users\mircea.gavriliu\source\repos\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp2.2\ShoppingCart.RazorAssemblyInfo.cs
+C:\Users\mircea.gavriliu\source\repos\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp2.2\ShoppingCart.AssemblyInfoInputs.cache
+C:\Users\mircea.gavriliu\source\repos\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp2.2\ShoppingCart.AssemblyInfo.cs
+C:\Users\mircea.gavriliu\source\repos\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp2.2\ShoppingCart.RazorTargetAssemblyInfo.cache
+C:\Users\mircea.gavriliu\source\repos\ShoppingCart\ShoppingCart\bin\Debug\netcoreapp2.2\ShoppingCart.pdb
+C:\Users\mircea.gavriliu\source\repos\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp2.2\ShoppingCart.dll
+C:\Users\mircea.gavriliu\source\repos\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp2.2\ShoppingCart.pdb
