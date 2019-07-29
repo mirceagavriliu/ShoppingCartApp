@@ -1,0 +1,19 @@
+<h2>Shopping Cart</h2>
+<div class='item' *ngFor="let item of items">
+        <div>
+            <span> {{item.name}}  </span>
+            <hr>
+            <span> Price: {{item.price | currency}}  </span>
+            <hr>
+            <span> Amount requested :{{item.amount}}</span>
+        </div>
+        <img src="{{item.imagePath}}" width="150" height="100">
+</div>
+<div class='item'>
+    <span>The total number of elements is {{cartService.totalItems}}</span>
+    <hr>
+    <span>The total sum is {{cartService.totalSum | currency}}</span>
+    <hr>
+    <button class="button" (click)="onClear()">Clear</button>
+    <button class="button" (click)="onCheckOut()">Check Out</button>
+</div>

@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+.item{
+    
+    width: 100%;
+    min-width: 400px;
+    max-width: 1080px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 16px 32px;
+    margin-bottom: 8px;
+    border-radius: 2px;
+    background-color: #EEEEEE;
+
+  }
